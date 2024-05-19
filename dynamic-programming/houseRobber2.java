@@ -1,4 +1,4 @@
-class Solution {
+class houseRobber2 {
     public int rob1(int[] nums) {
         if(nums.length == 1)
         return nums[0];
